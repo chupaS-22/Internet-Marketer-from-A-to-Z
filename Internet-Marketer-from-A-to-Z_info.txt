@@ -1,0 +1,6 @@
+
+
+git remote add origin https://github.com/chupaS-22/Internet-Marketer-from-A-to-Z.git
+git branch -M main
+git push -u origin main
+
