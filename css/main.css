@@ -11,6 +11,11 @@ body {
 	
 }
 
+
+.site-header-img {
+	width: 1000px;
+}
+
 .first-block {
 	background-color: #39A2FE;
 	padding: 48px;
