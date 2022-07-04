@@ -13,6 +13,7 @@ git remote add origin https://github.com/chupaS-22/Internet-Marketer-from-A-to-Z
 git branch -M main
 git push -u origin main
 
+
 1.Введение в интернет-маркетинг - introduction-to-internet-marketing
 	1.Вступительное слово. - opening-speech
 	2.Бизнес цели интернет-маркетинга. Продажи. - business-goals-of-internet-marketing-sales	-	https://youtu.be/7KQt4Bkemag
@@ -37,7 +38,7 @@ git push -u origin main
 	21_Сайты агрегаторы.	-	sites-aggregators	-	https://youtu.be/keHr3m1mph0
 	22_Сервисы для сайта.	-	website-services	-	https://youtu.be/ZnGgtR4TrWo
 	23_Привлечение клиентов, Медиапланирование.	-	client-acquisition-media-planning	-	https://youtu.be/LdiQ567EMK0
-	24_Прогнозирование, конверсия.	-	forecasting-conversion
+	24_Прогнозирование, конверсия.	-	forecasting-conversion	-	https://youtu.be/PsD-BLKxcuw
 	25_Контекст, КМС, РСЯ.	-	context-kms-yan
 	26_Медийная реклама, RTB, Тизерная реклама.
 	27_SEO, SEM.
@@ -69,6 +70,9 @@ git push -u origin main
 	53_Контент-менеджер.
 	54_Digital-стратег.
 	55_Основные сокращения в интернет-маркетинге.
+------------------------
+stpn91@mail.ru:y2EuvTAe7e6#	(a.9la@yandex.ru - почта восстановления)
+Сохранено в облако (https://cloud.mail.ru/public/D2M3/jcvXMea6i) - 6.84 Гб.
 
 Тема 02. Контекстная реклама (PPC). -	contextual-advertising-(ppc).
 	01_Вводная лекция.
