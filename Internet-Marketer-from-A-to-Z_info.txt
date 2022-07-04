@@ -30,15 +30,15 @@ git push -u origin main
 	14_Точки коммуникации с целевой аудиторией. Вступительное слово.	-	points-of-communication-with-the-target-audience - https://youtu.be/dU7FI9TSkvA
 	15_Интернет-магазины.	-	online-shopping  - https://youtu.be/Zk_hWBq9YAo
 	16_Landing Page. - https://youtu.be/g9tZBEIZ-Xc		
-	17_Сообщества в социальных сетях.
-	18_Порталы.
-	19_Блоги.
-	20_Форумы.
-	21_Сайты агрегаторы.
-	22_Сервисы для сайта.
-	23_Привлечение клиентов, Медиапланирование.
-	24_Прогнозирование, конверсия.
-	25_Контекст, КМС, РСЯ.
+	17_Сообщества в социальных сетях.	-	communities-in-social-networks	-	https://youtu.be/ptzeg7Oneyw
+	18_Порталы.	-	portals -	https://youtu.be/o2WbeosgYps
+	19_Блоги.	-	blogs	-	https://youtu.be/lfjhFlCoVvM
+	20_Форумы.	-	forums	-	https://youtu.be/yCWwR3N1Ckg
+	21_Сайты агрегаторы.	-	sites-aggregators	-	https://youtu.be/keHr3m1mph0
+	22_Сервисы для сайта.	-	website-services	-	https://youtu.be/ZnGgtR4TrWo
+	23_Привлечение клиентов, Медиапланирование.	-	client-acquisition-media-planning	-	https://youtu.be/LdiQ567EMK0
+	24_Прогнозирование, конверсия.	-	forecasting-conversion
+	25_Контекст, КМС, РСЯ.	-	context-kms-yan
 	26_Медийная реклама, RTB, Тизерная реклама.
 	27_SEO, SEM.
 	28_Видеореклама.
