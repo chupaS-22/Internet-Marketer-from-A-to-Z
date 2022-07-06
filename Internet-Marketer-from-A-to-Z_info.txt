@@ -39,24 +39,24 @@ git push -u origin main
 	22_Сервисы для сайта.	-	website-services	-	https://youtu.be/ZnGgtR4TrWo
 	23_Привлечение клиентов, Медиапланирование.	-	client-acquisition-media-planning	-	https://youtu.be/LdiQ567EMK0
 	24_Прогнозирование, конверсия.	-	forecasting-conversion	-	https://youtu.be/PsD-BLKxcuw
-	25_Контекст, КМС, РСЯ.	-	context-kms-yan
-	26_Медийная реклама, RTB, Тизерная реклама.
-	27_SEO, SEM.
-	28_Видеореклама.
-	29_Таргетированная реклама, продвижение в группах.
-	30_Работа с блогерами.
-	31_Product Placement.
-	32_Вирусная реклама.
-	33_Онлайн СМИ.
-	34_Мобильная реклама.
-	35_Привлечение клиентов, SMS рассылки.
-	36_Привлечение клиентов, Опросы.
-	37_Аналитика, Цели.
-	39. Аналитика - основные понятия.
-	39_Воронка продаж.
-	40_Виды аналитики.
-	41_Аналитика, Сервисы.
-	42_Call-tracking.
+	25_Контекст, КМС, РСЯ.	-	context-kms-yan	-	https://youtu.be/76D1lKUUiaY
+	26_Медийная реклама, RTB, Тизерная реклама.	-	display-advertising-rtb-teaser-advertising	-	https://youtu.be/Cp5v29o_D4c
+	27_SEO, SEM.	-	seo-sem		-	https://youtu.be/e3J3Y5GX10w
+	28_Видеореклама.	-	video-advertising	-	https://youtu.be/CQb0MRCnTTI
+	29_Таргетированная реклама, продвижение в группах.	-	targeted-advertising-promotion-in-groups		-	https://youtu.be/MfaAuS1cbyU
+	30_Работа с блогерами.	-	working-with-bloggers	-		https://youtu.be/MJ9TeBqSZrI
+	31_Product Placement.	-	product-placement		-		https://youtu.be/vJfM-mKFkUw
+	32_Вирусная реклама.	-	viral advertising		-		https://youtu.be/69kLGRag6cI
+	33_Онлайн СМИ.			-	online-media			-		https://youtu.be/94yZdTYW-nA	
+	34_Мобильная реклама.	-	mobile-advertising		-		
+	35_Привлечение клиентов, SMS рассылки.	-	attracting-customers-sms-mailings
+	36_Привлечение клиентов, Опросы.	-	customer-acquisition-surveys
+	37_Аналитика, Цели.	-	analytics-goals
+	39. Аналитика - основные понятия.	-	analytics-basic-concepts
+	39_Воронка продаж.	-	sales-funnel
+	40_Виды аналитики.	-	types-of-analytics
+	41_Аналитика, Сервисы.	-	analytics-services
+	42_Call-tracking.	-	call-tracking
 	43_Eye-tracking.
 	44_Удержание клиентов.
 	45_Функции и задачи интернет-маркетолога. Медиапланер.
@@ -72,13 +72,13 @@ git push -u origin main
 	55_Основные сокращения в интернет-маркетинге.
 ------------------------
 stpn91@mail.ru:y2EuvTAe7e6#	(a.9la@yandex.ru - почта восстановления)
-Сохранено в облако (https://cloud.mail.ru/public/D2M3/jcvXMea6i) - 6.84 Гб.
+Сохранено в облако 04.07.2022 (https://cloud.mail.ru/public/D2M3/jcvXMea6i) - 6.84 Гб.
 
 Тема 02. Контекстная реклама (PPC). -	contextual-advertising-(ppc).
-	01_Вводная лекция.
-	02_Секрет эффективного объявления.
-	03_Подбор ключевых фраз или работа с семантикой.
-	04_Сервисы для работы с контекстной рекламой.
+	01_Вводная лекция.	introductory-lecture		https://youtu.be/XaN07a9_mQI
+	02_Секрет эффективного объявления.		the-secret-to-an-effective-ad	https://youtu.be/XopR4Zzy6QE
+	03_Подбор ключевых фраз или работа с семантикой.		Selection-of-key-phrases-or-work-with-semantics		https://youtu.be/rj3cAL2BrpA
+	04_Сервисы для работы с контекстной рекламой.		services-for-working-with-contextual-advertising		https://youtu.be/x6vSTk7Mq7Y
 	05_Подбор запросов и создание объявления.
 	06_Ценообразование в контекстной рекламе.
 	07_Практики повышения эффективности за счет настройки параметров РК(ч1).
@@ -96,6 +96,10 @@ stpn91@mail.ru:y2EuvTAe7e6#	(a.9la@yandex.ru - почта восстановле
 	19_Работа с репутацией.
 	Домашнее задание
 	
+----------------------	
+регистрация на номер +7(918)835-60-40
+r33df2@yandex.ru:pytPTyrAA2-2
+Сохранено в облако 04.07.2022 (https://disk.yandex.ru/d/owUFhIgHr37a5Q)	4,93 ГБ
 Тема 03. SEO.
 	01_Вступительное слово.
 	02_Место SEO в интернет-маркетинге.
@@ -117,6 +121,11 @@ stpn91@mail.ru:y2EuvTAe7e6#	(a.9la@yandex.ru - почта восстановле
 	18_Тренировочное задание по SEO.
 	19_Заключительное занятие курса SEO.
 		Домашнее задание.
+
+---------------------
+a.9la@yandex.ru - почта восстановления
+y2mb91@mail.ru:pytPTyrAA2#2
+Сохранено в облако 04.07.2022 (https://cloud.mail.ru/public/nzWN/F9BkppTbx) 6.49 Гб.
 		
 Тема 04. Email-маркетинг.	-	email-marketing.
 	01_Вступительное слово.
