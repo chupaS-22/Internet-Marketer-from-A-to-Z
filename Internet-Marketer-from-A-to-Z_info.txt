@@ -48,28 +48,28 @@ git push -u origin main
 	31_Product Placement.	-	product-placement		-		https://youtu.be/vJfM-mKFkUw
 	32_Вирусная реклама.	-	viral advertising		-		https://youtu.be/69kLGRag6cI
 	33_Онлайн СМИ.			-	online-media			-		https://youtu.be/94yZdTYW-nA	
-	34_Мобильная реклама.	-	mobile-advertising		-		
-	35_Привлечение клиентов, SMS рассылки.	-	attracting-customers-sms-mailings
-	36_Привлечение клиентов, Опросы.	-	customer-acquisition-surveys
-	37_Аналитика, Цели.	-	analytics-goals
-	39. Аналитика - основные понятия.	-	analytics-basic-concepts
-	39_Воронка продаж.	-	sales-funnel
-	40_Виды аналитики.	-	types-of-analytics
-	41_Аналитика, Сервисы.	-	analytics-services
-	42_Call-tracking.	-	call-tracking
-	43_Eye-tracking.
-	44_Удержание клиентов.
-	45_Функции и задачи интернет-маркетолога. Медиапланер.
-	46_Менеджер по рекламе.
-	47_Менеджер-проекта.
-	48_SEO-специалисты.
-	49_Менеджер по контекстной рекламе.
-	50_SMM менеджеры.
-	51_Веб-аналитик.
-	52_Email маркетолог.
-	53_Контент-менеджер.
-	54_Digital-стратег.
-	55_Основные сокращения в интернет-маркетинге.
+	34_Мобильная реклама.	-	mobile-advertising		-		https://youtu.be/aGAt0and_GY
+	35_Привлечение клиентов, SMS рассылки.	-	attracting-customers-sms-mailings	-	https://youtu.be/RZEt3SvG9Ng
+	36_Привлечение клиентов, Опросы.		-	customer-acquisition-surveys		-	https://youtu.be/Lhof20lFpYM
+	37_Аналитика, Цели.						-	analytics-goals
+	39. Аналитика - основные понятия.		-	analytics-basic-concepts
+	39_Воронка продаж.						-	sales-funnel
+	40_Виды аналитики.					-	types-of-analytics
+	41_Аналитика, Сервисы.				-	analytics-services
+	42_Call-tracking.					-	call-tracking
+	43_Eye-tracking.					-	eye-tracking
+	44_Удержание клиентов.				-	customer-retention
+	45_Функции и задачи интернет-маркетолога. Медиапланер.	-	media-planner
+	46_Менеджер по рекламе.					-	advertising-manager
+	47_Менеджер-проекта.					-	project-manager
+	48_SEO-специалисты.						-	seo-specialists
+	49_Менеджер по контекстной рекламе.		-	contextual-advertising-manager
+	50_SMM менеджеры.						-	smm-managers
+	51_Веб-аналитик.						-	web-analyst
+	52_Email маркетолог.					-	email-marketer
+	53_Контент-менеджер.					-	content-manager
+	54_Digital-стратег.						-	digital-strategist
+	55_Основные сокращения в интернет-маркетинге.	-	basic-abbreviations-in-internet-marketing		
 ------------------------
 stpn91@mail.ru:y2EuvTAe7e6#	(a.9la@yandex.ru - почта восстановления)
 Сохранено в облако 04.07.2022 (https://cloud.mail.ru/public/D2M3/jcvXMea6i) - 6.84 Гб.
