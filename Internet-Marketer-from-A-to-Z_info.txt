@@ -51,16 +51,16 @@ git push -u origin main
 	34_Мобильная реклама.	-	mobile-advertising		-		https://youtu.be/aGAt0and_GY
 	35_Привлечение клиентов, SMS рассылки.	-	attracting-customers-sms-mailings	-	https://youtu.be/RZEt3SvG9Ng
 	36_Привлечение клиентов, Опросы.		-	customer-acquisition-surveys		-	https://youtu.be/Lhof20lFpYM
-	37_Аналитика, Цели.						-	analytics-goals
-	39. Аналитика - основные понятия.		-	analytics-basic-concepts
-	39_Воронка продаж.						-	sales-funnel
-	40_Виды аналитики.					-	types-of-analytics
-	41_Аналитика, Сервисы.				-	analytics-services
-	42_Call-tracking.					-	call-tracking
-	43_Eye-tracking.					-	eye-tracking
-	44_Удержание клиентов.				-	customer-retention
-	45_Функции и задачи интернет-маркетолога. Медиапланер.	-	media-planner
-	46_Менеджер по рекламе.					-	advertising-manager
+	37_Аналитика, Цели.						-	analytics-goals						-	https://youtu.be/MK9EvpPwGuw
+	38_Аналитика - основные понятия.		-	analytics-basic-concepts	-	https://youtu.be/s4VkWVJ47jQ
+	39_Воронка продаж.						-	sales-funnel				-	https://youtu.be/qfCg0qpLzto
+	40_Виды аналитики.					-	types-of-analytics		-	https://youtu.be/scfMO7MsnFI
+	41_Аналитика, Сервисы.				-	analytics-services		-	https://youtu.be/JDM1rSAjWrk
+	42_Call-tracking.					-	call-tracking		-	https://youtu.be/iOVplMcX1xI
+	43_Eye-tracking.					-	eye-tracking		-	https://youtu.be/w0sRoRrO67s
+	44_Удержание клиентов.				-	customer-retention	-	https://youtu.be/jncq8joun4w
+	45_Функции и задачи интернет-маркетолога. Медиапланер.	-	media-planner	-	https://youtu.be/_WkHnHNs83Y
+	46_Менеджер по рекламе.					-	advertising-manager		-	https://youtu.be/6MEN6O_KUQ4
 	47_Менеджер-проекта.					-	project-manager
 	48_SEO-специалисты.						-	seo-specialists
 	49_Менеджер по контекстной рекламе.		-	contextual-advertising-manager
@@ -89,8 +89,8 @@ stpn91@mail.ru:y2EuvTAe7e6#	(a.9la@yandex.ru - почта восстановле
 	12_Мастер-класс по расчетам ставок(ч2).		-	master-class-on-rate-calculations_2		-	https://youtu.be/4s7rqDVprzI
 	13_Автоматизация управления ставками.		-	bid-management-automation				-	https://youtu.be/JK9CDTsidCQ
 	14_Что еще могут учитывать бит-менеджеры.	-	what-else-can-beat-managers-consider	-	https://youtu.be/6NWIZPc6kHg
-	15_Аналитика в контекстной рекламе. Базовые возможности.		-	basic-features.
-	16_Аналитика в контекстной рекламе. Расширенные возможности.	-	extended-capabilities
+	15_Аналитика в контекстной рекламе. Базовые возможности.		-	basic-features.		-	https://youtu.be/qXc6eoK365U
+	16_Аналитика в контекстной рекламе. Расширенные возможности.	-	extended-capabilities	-	https://youtu.be/cYOcep06FUU
 	17_Работа с минус-словами.	-	working-with-negative-keywords
 	18_Ремаркетинг.				-	remarketing
 	19_Работа с репутацией.		-	working-with-reputation
