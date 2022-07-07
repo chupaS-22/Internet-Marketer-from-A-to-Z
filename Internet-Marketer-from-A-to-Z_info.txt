@@ -77,23 +77,23 @@ stpn91@mail.ru:y2EuvTAe7e6#	(a.9la@yandex.ru - почта восстановле
 Тема 02. Контекстная реклама (PPC). -	contextual-advertising-(ppc).
 	01_Вводная лекция.	introductory-lecture		https://youtu.be/XaN07a9_mQI
 	02_Секрет эффективного объявления.		the-secret-to-an-effective-ad	https://youtu.be/XopR4Zzy6QE
-	03_Подбор ключевых фраз или работа с семантикой.		Selection-of-key-phrases-or-work-with-semantics		https://youtu.be/rj3cAL2BrpA
+	03_Подбор ключевых фраз или работа с семантикой.		selection-of-key-phrases-or-work-with-semantics		https://youtu.be/rj3cAL2BrpA
 	04_Сервисы для работы с контекстной рекламой.		services-for-working-with-contextual-advertising		https://youtu.be/x6vSTk7Mq7Y
-	05_Подбор запросов и создание объявления.
-	06_Ценообразование в контекстной рекламе.
-	07_Практики повышения эффективности за счет настройки параметров РК(ч1).
-	08_Практики повышения эффективности за счет настройки параметров РК(ч2).
-	09_Принципы работы аукциона Google Adwords.
-	10_Принципы работы аукциона Яндекс. Директ.
-	11_Мастер-класс по расчетам ставок(ч1).
-	12_Мастер-класс по расчетам ставок(ч2).
-	13_Автоматизация управления ставками.
-	14_Что еще могут учитывать бит-менеджеры.
-	15_Аналитика в контекстной рекламе. Базовые возможности.
-	16_Аналитика в контекстной рекламе. Расширенные возможности.
-	17_Работа с минус-словами.
-	18_Ремаркетинг.
-	19_Работа с репутацией.
+	05_Подбор запросов и создание объявления.		-	selection-of-requests-and-creation-of-an-ad			-	https://youtu.be/WleGitaEMWE
+	06_Ценообразование в контекстной рекламе.		-	pricing-in-contextual-advertising					-	https://youtu.be/Ryx5lGR1JJA
+	07_Практики повышения эффективности за счет настройки параметров РК(ч1).	-	RK-parameter settings_1	-	https://youtu.be/tEWHKd2v-hc
+	08_Практики повышения эффективности за счет настройки параметров РК(ч2).	-	RK-parameter settings_2	-	https://youtu.be/pI9C2ayUHUs
+	09_Принципы работы аукциона Google Adwords.		-	google-adwords		-	https://youtu.be/HODWoEFEwDU
+	10_Принципы работы аукциона Яндекс. Директ.		-	yandex-direct		-	https://youtu.be/ZSXnc0C5uOU
+	11_Мастер-класс по расчетам ставок(ч1).		-	master-class-on-rate-calculations_1		-	https://youtu.be/c-r7IfPLI_U
+	12_Мастер-класс по расчетам ставок(ч2).		-	master-class-on-rate-calculations_2		-	https://youtu.be/4s7rqDVprzI
+	13_Автоматизация управления ставками.		-	bid-management-automation				-	https://youtu.be/JK9CDTsidCQ
+	14_Что еще могут учитывать бит-менеджеры.	-	what-else-can-beat-managers-consider	-	https://youtu.be/6NWIZPc6kHg
+	15_Аналитика в контекстной рекламе. Базовые возможности.		-	basic-features.
+	16_Аналитика в контекстной рекламе. Расширенные возможности.	-	extended-capabilities
+	17_Работа с минус-словами.	-	working-with-negative-keywords
+	18_Ремаркетинг.				-	remarketing
+	19_Работа с репутацией.		-	working-with-reputation
 	Домашнее задание
 	
 ----------------------	
