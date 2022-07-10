@@ -7,12 +7,17 @@
 блок Т178, категория «Другое».
 
 
+Интернет-маркетолог от А до Я
+
 Тема 01.Введение в интернет-маркетинг. 
 
 git remote add origin https://github.com/chupaS-22/Internet-Marketer-from-A-to-Z.git
 git branch -M main
 git push -u origin main
 
+
+acodeden@mail.ru:kvCyDHVHx92S - (09.07.2022)	(a.9la@yandex.ru - почта восстановления)
+Сохранено в облако 09.07.2022 (https://cloud.mail.ru/public/zJZJ/p88Xyo3kD) - 4.41 Гб.
 
 1.Введение в интернет-маркетинг - introduction-to-internet-marketing
 	1.Вступительное слово. - opening-speech
@@ -61,15 +66,15 @@ git push -u origin main
 	44_Удержание клиентов.				-	customer-retention	-	https://youtu.be/jncq8joun4w
 	45_Функции и задачи интернет-маркетолога. Медиапланер.	-	media-planner	-	https://youtu.be/_WkHnHNs83Y
 	46_Менеджер по рекламе.					-	advertising-manager		-	https://youtu.be/6MEN6O_KUQ4
-	47_Менеджер-проекта.					-	project-manager
-	48_SEO-специалисты.						-	seo-specialists
-	49_Менеджер по контекстной рекламе.		-	contextual-advertising-manager
-	50_SMM менеджеры.						-	smm-managers
-	51_Веб-аналитик.						-	web-analyst
-	52_Email маркетолог.					-	email-marketer
-	53_Контент-менеджер.					-	content-manager
-	54_Digital-стратег.						-	digital-strategist
-	55_Основные сокращения в интернет-маркетинге.	-	basic-abbreviations-in-internet-marketing		
+	47_Менеджер-проекта.					-	project-manager			-	https://youtu.be/kQU7xRFD3vA
+	48_SEO-специалисты.						-	seo-specialists			-	https://youtu.be/EhT3LFNXv2w
+	49_Менеджер по контекстной рекламе.		-	contextual-advertising-manager	-	https://youtu.be/2qk5Jah7_wA
+	50_SMM менеджеры.						-	smm-managers		-	https://youtu.be/xmUEMCOQVLg
+	51_Веб-аналитик.						-	web-analyst			-	https://youtu.be/gegnZYKOSc8
+	52_Email маркетолог.					-	email-marketer		-	https://youtu.be/hk_lo3l8HFg
+	53_Контент-менеджер.					-	content-manager		-	https://youtu.be/HpbWJTMO3FA
+	54_Digital-стратег.						-	digital-strategist	-	https://youtu.be/vMXpzK8tGwM
+	55_Основные сокращения в интернет-маркетинге.	-	basic-abbreviations-in-internet-marketing	-	https://youtu.be/4buMLnWfWuA	
 ------------------------
 stpn91@mail.ru:y2EuvTAe7e6#	(a.9la@yandex.ru - почта восстановления)
 Сохранено в облако 04.07.2022 (https://cloud.mail.ru/public/D2M3/jcvXMea6i) - 6.84 Гб.
@@ -91,71 +96,79 @@ stpn91@mail.ru:y2EuvTAe7e6#	(a.9la@yandex.ru - почта восстановле
 	14_Что еще могут учитывать бит-менеджеры.	-	what-else-can-beat-managers-consider	-	https://youtu.be/6NWIZPc6kHg
 	15_Аналитика в контекстной рекламе. Базовые возможности.		-	basic-features.		-	https://youtu.be/qXc6eoK365U
 	16_Аналитика в контекстной рекламе. Расширенные возможности.	-	extended-capabilities	-	https://youtu.be/cYOcep06FUU
-	17_Работа с минус-словами.	-	working-with-negative-keywords
-	18_Ремаркетинг.				-	remarketing
-	19_Работа с репутацией.		-	working-with-reputation
+	17_Работа с минус-словами.	-	working-with-negative-keywords	-	https://youtu.be/4OYnHXoYoYo
+	18_Ремаркетинг.				-	remarketing						-	https://youtu.be/eZ7gzbctc-4
+	19_Работа с репутацией.		-	working-with-reputation			-	https://youtu.be/40pbcAPwHts
 	Домашнее задание
 	
 ----------------------	
+Интернет-маркетолог от А до Я. Тема 03. SEO. - плейлист	-	https://youtube.com/playlist?list=PLBnNpUWQUc0ECn8QGzAkoTOxWrjNnFUIk
 регистрация на номер +7(918)835-60-40
 r33df2@yandex.ru:pytPTyrAA2-2
 Сохранено в облако 04.07.2022 (https://disk.yandex.ru/d/owUFhIgHr37a5Q)	4,93 ГБ
-Тема 03. SEO.
-	01_Вступительное слово.
-	02_Место SEO в интернет-маркетинге.
-	03_Какие есть поисковые системы.
-	04_Устройство поисковой системы.
-	05_Позиции и трафик. Сниппеты.
-	06_Семантические ядра.
-	07_Факторы ранжирования.
-	08_Исходный код.
-	09_Ссылки.
-	10_Покупка ссылок.
-	11_Ссылочные агрегаторы.
-	12_Заголовки.
-	13_Ошибки 404.
-	14_Поведенческие факторы.
-	15_SERM без бюджета.
-	16_Мультиканальное SEO.
-	17_Технический анализ.
-	18_Тренировочное задание по SEO.
-	19_Заключительное занятие курса SEO.
+Тема 03. SEO. 
+	01_Вступительное слово.				-	01_opening-speech							-	https://youtu.be/1hT_e7G6lHQ
+	02_Место SEO в интернет-маркетинге.	-	02_the-place-of-seo-in-internet-marketing	-	https://youtu.be/K9yvDw2u80I
+	03_Какие есть поисковые системы.	-	03_what-are-the-search-engines				-	https://youtu.be/tWBafwN-SDw
+	04_Устройство поисковой системы.	-	04_search-engine-device				-	https://youtu.be/2Sub4u5EPAs
+	05_Позиции и трафик. Сниппеты.		-	05_positions-and-traffic-snippets	-	https://youtu.be/-4HXAsyL3TI
+	06_Семантические ядра.				-	06_semantic-cores	-	https://youtu.be/f5mhMvbBhMw
+	07_Факторы ранжирования.			-	07_ranking-factors	-	https://youtu.be/ezIUDdZEf4k
+	08_Исходный код.					-	08_source-code		-	https://youtu.be/5MpacFroSvo
+	09_Ссылки.							-	09_links			-	https://youtu.be/C6TJ7hE3l-0
+	10_Покупка ссылок.					-	10_purchase-links	-	https://youtu.be/QAINCOIJeDA
+	11_Ссылочные агрегаторы.			-	11_reference-aggregators	-	https://youtu.be/_T8iBjjmF5o
+	12_Заголовки.						-	12_headers					-	
+	13_Ошибки 404.						-	13_404 errors				- 
+	14_Поведенческие факторы.			-	14_behavioral-factors			-
+	15_SERM без бюджета.				-	15_serm-without-a-budget		-
+	16_Мультиканальное SEO.				-	16_multichannel-seo			-
+	17_Технический анализ.				-	17_technical-analysis			-
+	18_Тренировочное задание по SEO.	-	18-seo-training-task			-
+	19_Заключительное занятие курса SEO.	-	19_final-session-of-the-seo-course - 
 		Домашнее задание.
 
 ---------------------
+Интернет-маркетолог от А до Я. Тема 04. Email-маркетинг. 
 a.9la@yandex.ru - почта восстановления
 y2mb91@mail.ru:pytPTyrAA2#2
 Сохранено в облако 04.07.2022 (https://cloud.mail.ru/public/nzWN/F9BkppTbx) 6.49 Гб.
 		
 Тема 04. Email-маркетинг.	-	email-marketing.
-	01_Вступительное слово.
-	02_Что такое email-маркетинг и зачем он нужен.
-	04_Сбор контактов.
-	05_Сбор разрешений и первичных данных.
-	06_Цели email-маркетинга.
-	07_Инструменты email-маркетолога.
-	08_Виды массовых рассылок и их контент.
-	09_Персонализация.
-	10_Эмоции продают лучше бездушных писем.
-	11_Особенности размещения контента.
-	12_Дизайн и верстка.
-	13_Типичные ошибки в дизайне и верстке.
-	14_Сегментация клиентов.
-	15_Примеры по сегментации клиентов.
-	16_Откуда взять недостающие данные для анализа и сегментации.
-	17_Аналитика рассылок.
-	18_Как не попадать в спам.
-	19_Транзакционные письма.
-	20_Триггерные письма.
-	21_Триггерные письма. Карта триггерных рассылок.
-	22_Самые важные триггеры(ч1).
-	23_Самые важные триггеры(ч2).
-	24_Стратегия email-маркетинга.
-	25_Товарные рекомендации на основе анализа данных.
-	26_Модели поведения клиента и коллаборативная фильтрация.
-	27_Работа с отписками.
-	28_Омниканальные кампании.
+	01_Вступительное слово.														-	01_opening-speech	-	
+	02_Что такое email-маркетинг и зачем он нужен.								-	02_what-is-email	-	
+	03_Сравнение email-маркетинга с другими инструментами интернет-маркетинга	- 	03_comparing-emai	-	
+	04_Сбор контактов.															-	04_collecting-con	-	
+	05_Сбор разрешений и первичных данных.										-	05_collection-of	-	
+	06_Цели email-маркетинга.													-	06_goals-of-email	-	
+	07_Инструменты email-маркетолога.											-	07_email-marketin	-	
+	08_Виды массовых рассылок и их контент.										-	08_types-of-mass	-	
+	09_Персонализация.															-	09_personalizatio	-	
+	10_Эмоции продают лучше бездушных писем.									-	10_emotions-sell	-	
+	11_Особенности размещения контента.											-	11_features-of-co	-	
+	12_Дизайн и верстка.														-	12_design-and-lay	-	
+	13_Типичные ошибки в дизайне и верстке.										-	13_typichnye-mist	-	
+	14_Сегментация клиентов.													-	14_customer-segme	-	
+	15_Примеры по сегментации клиентов.											-	15_examples-of-cu	-	
+	16_Откуда взять недостающие данные для анализа и сегментации.				-	16_where-to-get-t	-	
+	17_Аналитика рассылок.														-	17_mailing-analyt	-	
+	18_Как не попадать в спам.													-	18_how-not-to-get	-	
+	19_Транзакционные письма.													-	19_transactional	-	
+	20_Триггерные письма.														-	20_trigger-emails	-	
+	21_Триггерные письма. Карта триггерных рассылок.							-	21_trigger-emails	-	
+	22_Самые важные триггеры(ч1).												-	22_most-important	-	
+	23_Самые важные триггеры(ч2).												-	23_the-most-impor	-	
+	24_Стратегия email-маркетинга.												-	24_email-marketin	-	
+	25_Товарные рекомендации на основе анализа данных.							-	25_product-recomm	-	
+	26_Модели поведения клиента и коллаборативная фильтрация.					-	26_models-of-clie	-	
+	27_Работа с отписками.														-	27_working-with-u	-	
+	28_Омниканальные кампании.													-	28_omnichannel-ca	-	
 		Домашнее задание.
+
+-----------------------
+araehdom@mail.ru:ApA2h2b4opAr - новая (09.07.2022)	(a.9la@yandex.ru - почта восстановления)
+Сохранено в облако 09.07.2022 (https://cloud.mail.ru/public/ahEd/bgrh4Pnje) - 7.15 Гб.
+
 
 Тема 05. SMM.
 	01_Вступительное слово.
@@ -166,6 +179,9 @@ y2mb91@mail.ru:pytPTyrAA2#2
 	06_Instagram.
 	07_Мониторинг социальных сетей.
 	08_Анализ эффективности
+--------
+xxxxxxx@mail.ru:xxxxxxxxx - новая (09.07.2022)	(a.9la@yandex.ru - почта восстановления)
+Сохранено в облако 09.07.2022 (#) - 0.00 Гб.	
 	09_Youtube.
 	10_Мобильные мессенджеры.
 	11_Одноклассники.
