@@ -134,29 +134,29 @@ a.9la@yandex.ru - почта восстановления
 y2mb91@mail.ru:pytPTyrAA2#2
 Сохранено в облако 04.07.2022 (https://cloud.mail.ru/public/nzWN/F9BkppTbx) 6.49 Гб.
 		
-Тема 04. Email-маркетинг.	-	email-marketing.	-	https://youtube.com/playlist?list=PLBnNpUWQUc0FCj8ly3lPgX9sjYEOMjpHO
+Тема 04. Email-маркетинг. -	email-marketing.	-	https://youtube.com/playlist?list=PLBnNpUWQUc0FCj8ly3lPgX9sjYEOMjpHO
 	01_Вступительное слово.														-	01_opening-speech	-	https://youtu.be/1oKIrWbriPY
 	02_Что такое email-маркетинг и зачем он нужен.								-	02_what-is-email	-	https://youtu.be/ycuIGJXLYqM
-	03_Сравнение email-маркетинга с другими инструментами интернет-маркетинга	- 	03_comparing-emai	-	
-	04_Сбор контактов.															-	04_collecting-con	-	
-	05_Сбор разрешений и первичных данных.										-	05_collection-of	-	
-	06_Цели email-маркетинга.													-	06_goals-of-email	-	
-	07_Инструменты email-маркетолога.											-	07_email-marketin	-	
-	08_Виды массовых рассылок и их контент.										-	08_types-of-mass	-	
-	09_Персонализация.															-	09_personalizatio	-	
-	10_Эмоции продают лучше бездушных писем.									-	10_emotions-sell	-	
-	11_Особенности размещения контента.											-	11_features-of-co	-	
-	12_Дизайн и верстка.														-	12_design-and-lay	-	
-	13_Типичные ошибки в дизайне и верстке.										-	13_typichnye-mist	-	
-	14_Сегментация клиентов.													-	14_customer-segme	-	
-	15_Примеры по сегментации клиентов.											-	15_examples-of-cu	-	
-	16_Откуда взять недостающие данные для анализа и сегментации.				-	16_where-to-get-t	-	
-	17_Аналитика рассылок.														-	17_mailing-analyt	-	
-	18_Как не попадать в спам.													-	18_how-not-to-get	-	
-	19_Транзакционные письма.													-	19_transactional	-	
-	20_Триггерные письма.														-	20_trigger-emails	-	
-	21_Триггерные письма. Карта триггерных рассылок.							-	21_trigger-emails	-	
-	22_Самые важные триггеры(ч1).												-	22_most-important	-	
+	03_Сравнение email-маркетинга с другими инструментами интернет-маркетинга	- 	03_comparing-emai	-	https://youtu.be/FFDU0oY2Wuo
+	04_Сбор контактов.															-	04_collecting-con	-	https://youtu.be/XX1lp3M_OAA
+	05_Сбор разрешений и первичных данных.										-	05_collection-of	-	https://youtu.be/oUUHD_2yxgE
+	06_Цели email-маркетинга.													-	06_goals-of-email	-	https://youtu.be/IFmYS-5FzJ8
+	07_Инструменты email-маркетолога.											-	07_email-marketin	-	https://youtu.be/NDK1iFmPdHo
+	08_Виды массовых рассылок и их контент.										-	08_types-of-mass	-	https://youtu.be/EXen_KtBfwU
+	09_Персонализация.															-	09_personalizatio	-	https://youtu.be/kLoJseLgy58
+	10_Эмоции продают лучше бездушных писем.									-	10_emotions-sell	-	https://youtu.be/4eC3XFtqulg
+	11_Особенности размещения контента.											-	11_features-of-co	-	https://youtu.be/6s4XOTxIU9o
+	12_Дизайн и верстка.														-	12_design-and-lay	-	https://youtu.be/9wKz-MlbRfo
+	13_Типичные ошибки в дизайне и верстке.										-	13_typichnye-mist	-	https://youtu.be/O7HP3mDme28
+	14_Сегментация клиентов.													-	14_customer-segme	-	https://youtu.be/yJ1cKc5YxmY
+	15_Примеры по сегментации клиентов.											-	15_examples-of-cu	-	https://youtu.be/RXG7eCiTXBo
+	16_Откуда взять недостающие данные для анализа и сегментации.				-	16_where-to-get-t	-	https://youtu.be/1oTpnBl7Q7g
+	17_Аналитика рассылок.														-	17_mailing-analyt	-	https://youtu.be/cs7ERRjPqgQ
+	18_Как не попадать в спам.													-	18_how-not-to-get	-	https://youtu.be/8lAT8o169Wo
+	19_Транзакционные письма.													-	19_transactional	-	https://youtu.be/YhSuFPiVNQA
+	20_Триггерные письма.														-	20_trigger-emails	-	https://youtu.be/p3OxJcC1AT8
+	21_Триггерные письма. Карта триггерных рассылок.							-	21_trigger-emails	-	https://youtu.be/N6xBDPLnmrY
+	22_Самые важные триггеры(ч1).												-	22_most-important	-	https://youtu.be/Y7FT15zie04
 	23_Самые важные триггеры(ч2).												-	23_the-most-impor	-	
 	24_Стратегия email-маркетинга.												-	24_email-marketin	-	
 	25_Товарные рекомендации на основе анализа данных.							-	25_product-recomm	-	
